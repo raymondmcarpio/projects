@@ -1,0 +1,4 @@
+Random/Dice
+
+Roll a 6-sided dice n amount of times and calculate the percentage that each face of the die was cast.
+Used srand to set the seed and time as argument.
