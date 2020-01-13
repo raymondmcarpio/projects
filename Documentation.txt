@@ -6,5 +6,4 @@ String/String manipulations
 4. Count words
 5. Count consonants
 
--for any string and output the resulting
-manipulated string
+-for any string and output the resulting manipulated string
